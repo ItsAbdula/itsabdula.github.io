@@ -14,7 +14,7 @@ I received my master's degreee in Artificial Intelligence from Ajou University u
 
 Education
 ======
-* Ph.D. in Electrical Engineering, Korea University, Mar. 2025 - Present
+* Ph.D. in Electrical & Computer Engineering, Korea University, Mar. 2025 - Present
 * M.S in Artificial Intelligence, Ajou University, Mar. 2023 - Mar. 2025
 * B.E. in Digital Media, Ajou University, Mar. 2014 - Aug. 2020
 
