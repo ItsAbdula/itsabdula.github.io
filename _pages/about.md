@@ -13,7 +13,7 @@ My current research is focused on LLM Serving Systems. I am broadly interested i
 I received my master's degree in Artificial Intelligence from Ajou University under the supervision of Prof. [Jeongseob Ahn](http://jeongseob.github.io/). I also hold a B.E. degree in Digital Media from Ajou University.
 
 Education
-======
+------
 * Ph.D. in Electrical & Computer Engineering, Korea University, Mar. 2025 - Present
 * M.S. in Artificial Intelligence, Ajou University, Mar. 2023 - Mar. 2025
 * B.E. in Digital Media, Ajou University, Mar. 2014 - Aug. 2020
