@@ -20,5 +20,8 @@ Education
 
 Publication
 ------
-* **GPU-Centric Memory Tiering for LLM Serving With NVIDIA Grace Hopper Superchip** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10852027/)<br> <u><i>Woohyung Choi</i></u>, Jinwoo Jeong, Hanhwi Jang, Jeongseob Ahn<br>IEEE Computer Architecture Letters (CAL), 2025<br><i>Best Paper Award Runner-Up</i>
+* **GPU-Centric Memory Tiering for LLM Serving With NVIDIA Grace Hopper Superchip**<br>[[Paper]](https://ieeexplore.ieee.org/abstract/document/10852027/)<br> <u><i>Woohyung Choi</i></u>, Jinwoo Jeong, Hanhwi Jang, Jeongseob Ahn<br>IEEE Computer Architecture Letters (CAL), 2025<br><i>Best Paper Award Runner-Up</i>
 
+Preprint
+------
+* **Taming Speculative Search for Test-Time Scaling in LLM Serving**<br>[[Paper]](https://arxiv.org/abs/2609.39334)<br> Jinwoo Jeong, <u><i>Woohyung Choi</i></u>, Myeongjae Jeon, and Jeongseob Ahn<br>arXiv preprint, 2026 (Under Review)
